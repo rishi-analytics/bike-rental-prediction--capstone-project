@@ -30,6 +30,7 @@ Model performance is evaluated using Root Mean Squared Error (RMSE).
 - Random Forest RMSE: ~960
 
 - <p align="center">
+  <img src="project-images/model_score.png" width="45%" />
   <img src="project-images/regression_analysis.png" width="45%" />
   <img src="project-images/random-forest_analysis.png" width="45%" />
 </p>
@@ -49,4 +50,5 @@ Based on the Coursera *Data Science Project Capstone: Predicting Bicycle Rental*
 
 ## Miscellaneous
 Notebook: View project python notebook [here](https://colab.research.google.com/drive/1_NVpzi02B2KC0WXXJWJ7eIPaBySai4TR)
+
 University of London Course Certificate: Verify certificate [here](https://coursera.org/verify/C9F54HK2D800)
