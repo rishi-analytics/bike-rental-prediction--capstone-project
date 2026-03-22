@@ -47,6 +47,6 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 ## Certification
 Based on the Coursera *Data Science Project Capstone: Predicting Bicycle Rental* by the University of London, with an independently structured implementation.
 
-##Additional
-Notebook: View project python notebook [here](https://colab.research.google.com/drive/1_NVpzi02B2KC0WXXJWJ7eIPaBySai4TR#scrollTo=LAQKRwWInIUW)
+## Miscellaneous
+Notebook: View project python notebook [here](https://colab.research.google.com/drive/1_NVpzi02B2KC0WXXJWJ7eIPaBySai4TR)
 University of London Course Certificate: Verify certificate [here](https://coursera.org/verify/C9F54HK2D800)
