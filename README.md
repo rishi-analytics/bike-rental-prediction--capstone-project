@@ -29,10 +29,10 @@ Model performance is evaluated using Root Mean Squared Error (RMSE).
 - Linear Regression RMSE: ~925  
 - Random Forest RMSE: ~960
 
-- <p align="center">
-  <img src="project-images/model_score.png" width="45%" />
-  <img src="project-images/regression_analysis.png" width="45%" />
-  <img src="project-images/random-forest_analysis.png" width="45%" />
+<p align="center">
+  <img src="project-images/model_score.png" width="30%" />
+  <img src="project-images/regression_analysis.png" width="30%" />
+  <img src="project-images/random-forest_analysis.png" width="30%" />
 </p>
 
 The Linear Regression model performed better, indicating largely linear relationships in the data.
